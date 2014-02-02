@@ -57,6 +57,19 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Componet.html" />
+    <Content Include="Content\js\Componet.js" />
+    <Content Include="Content\js\ComponetApp.js" />
+    <Content Include="Content\js\Proje.js" />
+    <Content Include="favicon.png" />
+    <Content Include="Proje.html" />
+    <Content Include="Basic.html" />
+    <Content Include="Content\css\Basic.css" />
+    <Content Include="Content\css\Control.css" />
+    <Content Include="Content\js\Control.js" />
+    <Content Include="Control.html" />
+    <Content Include="Proje\detail.html" />
+    <Content Include="Proje\list.html" />
     <Content Include="Ui\angularjs\angular-animate.min.js.map" />
     <Content Include="Ui\angularjs\angular-cookies.min.js.map" />
     <Content Include="Ui\angularjs\angular-loader.min.js.map" />
@@ -76,6 +89,7 @@
     <Content Include="Ui\angularjs\docs\notes\empty.tmp" />
     <Content Include="Ui\angularjs\errors.json" />
     <Content Include="Ui\angularjs\version.json" />
+    <Content Include="Ui\bootstrap\.bower.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -84,9 +98,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="detail.html" />
     <Content Include="index.html" />
-    <Content Include="list.html" />
     <Content Include="Ui\angularjs\angular-animate.js" />
     <Content Include="Ui\angularjs\angular-animate.min.js" />
     <Content Include="Ui\angularjs\angular-cookies.js" />
@@ -106,7 +118,6 @@
     <Content Include="Ui\angularjs\angular-touch.min.js" />
     <Content Include="Ui\angularjs\angular.js" />
     <Content Include="Ui\angularjs\angular.min.js" />
-    <Content Include="Ui\angularjs\css\todo.css" />
     <Content Include="Ui\angularjs\docs\components\angular-bootstrap-prettify.js" />
     <Content Include="Ui\angularjs\docs\components\angular-bootstrap.js" />
     <Content Include="Ui\angularjs\docs\components\bootstrap\css\bootstrap-responsive.css" />
@@ -719,9 +730,23 @@
     <Content Include="Ui\angularjs\i18n\angular-locale_zh.js" />
     <Content Include="Ui\angularjs\i18n\angular-locale_zu-za.js" />
     <Content Include="Ui\angularjs\i18n\angular-locale_zu.js" />
-    <Content Include="Ui\angularjs\js\project.js" />
-    <Content Include="Ui\angularjs\js\todo.js" />
     <Content Include="Ui\angularjs\version.txt" />
+    <Content Include="Ui\bootstrap\css\bootstrap-responsive.css" />
+    <Content Include="Ui\bootstrap\css\bootstrap-responsive.min.css" />
+    <Content Include="Ui\bootstrap\css\bootstrap.css" />
+    <Content Include="Ui\bootstrap\css\bootstrap.min.css" />
+    <Content Include="Ui\bootstrap\img\glyphicons-halflings-white.png" />
+    <Content Include="Ui\bootstrap\img\glyphicons-halflings.png" />
+    <Content Include="Ui\bootstrap\js\bootstrap.js" />
+    <Content Include="Ui\bootstrap\js\bootstrap.min.js" />
+    <Content Include="Ui\fairbase\angularfire.min.js" />
+    <Content Include="Ui\fairbase\firebase.js" />
+    <Content Include="Ui\jquery\html5shiv.js" />
+    <Content Include="Ui\jquery\ie6.js" />
+    <Content Include="Ui\jquery\jquery-1.10.2.min.js" />
+    <Content Include="Ui\jquery\jquery-1.7.1.min.js" />
+    <Content Include="Ui\jquery\placeholder.js" />
+    <Content Include="Ui\jquery\respond.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
